@@ -16,11 +16,7 @@ Exibição de personagens de Digimon.
 Design responsivo e adaptado para diferentes dispositivos.
 Interações simples com JavaScript para tornar o site mais dinâmico.
 🛠️ Como Executar o Projeto
-Clone o repositório:
-bash
-Copiar código
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Abra o arquivo index.html no navegador.
+(https://railsonsirq.github.io/Projeto-Digidev-Finalizado/)
 📈 Próximos Passos
 Melhorar a interatividade com mais funcionalidades em JavaScript.
 Otimizar o design responsivo.
